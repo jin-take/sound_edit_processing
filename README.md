@@ -1,4 +1,4 @@
-# sound_edit_processing
+# Sound Edit Processing
 This repository is sound processing about wave file and other sound file.
 Input wave file etc. and output the values and graphes.
 
